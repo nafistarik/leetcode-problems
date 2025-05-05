@@ -68,6 +68,10 @@ Each problem folder = 📂 One learning story.
 
 Each problem I solve gets its own folder:
 
+```
+
 📂 /Problem-Name
 ┣ 📄 README.md ← My complete thought process, logic, mistakes & learnings
 ┗ 📄 index.js ← Final optimal solution (with clean code & comments)
+
+```
